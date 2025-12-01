@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - **Year**: 2024-Present
 
 ## 📜 CERTIFICATIONS:
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8088fc68477f4883ad8962214907f189)
 
 ## 🛠️ SKILLSETS:
 - **Programming Languages**: Java, JavaScript
