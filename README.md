@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ## 🎓 EDUCATION: 
 - **College**: New Era University
+- **Occupation**: BS Information Technology
+- **Year**: 2024-Present
 
 ## 📜 CERTIFICATIONS:
 
