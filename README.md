@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ## 📜 CERTIFICATIONS:
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8088fc68477f4883ad8962214907f189)
+- Become An OCI Foundations Associate (2025) 
 
 ## 🛠️ SKILLSETS:
 - **Programming Languages**: Java, JavaScript
