@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [Become an Oracle Data Platform Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DE4EC5734C606E8EF4B9E712A10CC1B0F4D056CA62FE086D9DF4BDC238158362)
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/b43141e30d7a4c60ab1ed9ee0d0686c1)
 
-## 🛠️ SKILLSETS:
-- **Programming Languages**: Java, JavaScript
-- **Database**: SQL
-- **Tools**: LucidChart, Figma, Eclipse, VSC, Obsidian
+## 🛠️ SKILLSETS
+- **Programming Languages:** Java, JavaScript, Python
+- **Databases:** SQL
+- **Tools & Platforms:** Lucidchart, Figma, Eclipse, VS Code, Obsidian, Pentaho, IntelliJ IDEA, Vercel, Supabase
